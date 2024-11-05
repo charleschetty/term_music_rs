@@ -61,7 +61,7 @@ Press `Tab` to see the helper.
 | `n`               | Play Next Music                               |
 | `d`               | Remove from Playing List (slow)              |
 | `D`               | Remove from Playing List (fast, but may change order) |
-| `m`               | Change Playing Mode (Auto|Repeat|Random|Manual) |
+| `m`               | Change Playing Mode (Auto,Repeat,Random,Manual) |
 | `+`               | Volume Up                                     |
 | `-`               | Volume Down                                   |
 | `Tab`             | Helper                                        |
