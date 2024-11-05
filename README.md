@@ -28,7 +28,6 @@ cargo build --release
 
 Press `Tab` to see the helper.
 
-# Terminal Music Player
 
 ### File Browser
 | Shortcut          | Action                                         |
