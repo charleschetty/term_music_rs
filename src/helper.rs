@@ -30,6 +30,7 @@ impl HelpTable{
                 vec!["A".to_string(), "Add All The Music In This Folder To Playing List".to_string()],
                 vec!["o".to_string(), "Open Folder".to_string()],
                 vec!["Backspace".to_string(), "Close Folder".to_string()],
+                vec!["Tab".to_string(), "Helper".to_string()],
                 vec!["".to_string(), "".to_string()],
 
 
@@ -49,6 +50,7 @@ impl HelpTable{
                 vec!["m".to_string(), "Change Playing Mod (Auto|Repeat|Random|Manual)".to_string()],
                 vec!["+".to_string(), "Volume Up".to_string()],
                 vec!["-".to_string(), "Volume Down".to_string()],
+                vec!["Tab".to_string(), "Helper".to_string()],
                 vec!["".to_string(), "".to_string()],
 
 

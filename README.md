@@ -42,6 +42,7 @@ Press `Tab` to see the helper.
 | `A`               | Add All The Music In This Folder To Playing List |
 | `o`               | Open Folder                                   |
 | `Backspace`       | Close Folder                                  |
+| `Tab`             | Helper                                        |
 
 ---
 
@@ -63,6 +64,7 @@ Press `Tab` to see the helper.
 | `m`               | Change Playing Mode (Auto|Repeat|Random|Manual) |
 | `+`               | Volume Up                                     |
 | `-`               | Volume Down                                   |
+| `Tab`             | Helper                                        |
 
 ---
 
